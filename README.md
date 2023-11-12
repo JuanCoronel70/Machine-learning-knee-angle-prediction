@@ -1,2 +1,2 @@
 # Machine-learning-knee-angle-prediction
-This project aims to develop a predictive model for the left knee angle in cycling based on the time series behavior of the right knee angle
+This project aims to develop a predictive model for the left knee angle in cycling based on the time series behavior of the right knee angle. The analysis leverages a linear regression model with regularization (specifically Ridge regression). The dataset, derived from a biomechanics laboratory study on a professional cyclist, includes measurements from both the left and right knees. The goal is to create an economical model that predicts the left knee angle by utilizing the history of the right knee angle.
